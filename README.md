@@ -7,7 +7,7 @@ In this VBA_challenge we are going to edit or refactor green_stocks to loop thro
 ###Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script
 
 we are going to make some changes on green_stocks code and make it easier to understand, faster, more efficient and use less memory. in VBA_challenge we are using a for loop and in that loop we collect all th information we need and store it in an array, so we have three array (tickerVolumes, tickerStrtingPrice, tickerEndingPrice) which keep the results and tickerIndex to access the correct index across the four different arrays.
-![This is an image](ticker.png)
+![This is an image](https://C:\Users\Owner\Desktop\data\stocks-analysis\green_stocks\Resources\ticker.png)
 
 ![This is an image](firstloop.png)
 
